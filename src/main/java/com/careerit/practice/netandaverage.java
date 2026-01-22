@@ -1,4 +1,4 @@
-package com.practice;
+package com.careerit.practice;
 
 import java.util.Scanner;
 

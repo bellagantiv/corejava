@@ -1,4 +1,4 @@
-package com.practice;
+package com.careerit.practice;
 
 public class simpleintrest {
      public     static void main(String[] args){
