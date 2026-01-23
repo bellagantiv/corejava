@@ -17,6 +17,7 @@ public class bilDiscount {
         }else{
             System.out.println( billamount);
         }
-         System.out.println(" discount bill   " + billamount);
+        System.out.println("  bill   " + billamount);
+
     }
 }
